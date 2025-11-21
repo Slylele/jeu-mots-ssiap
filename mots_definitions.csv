@@ -1,42 +1,94 @@
-mot,definition
-SSIAP,Service de Sécurité Incendie et d'Assistance à Personnes
-ADF,Antidéflagrant
-AES,Alimentation Électrique de Sécurité
-AFCPSAM,Attestation de Formation Complémentaire aux Premiers Secours avec Matériel
-AFFF,Agent Formant un Film Flottant
-AFNOR,Association Française de Normalisation
-AFPS,Attestation de Formation aux Premiers Secours
-AG,Alarme Générale
-AGS,Alarme Générale Sélective
-AMOA,Assistant Maître d'Ouvrage
-AMOe,Assistant Maître d'Œuvre
-AR,Alarme Restreinte
-AP1,Attestation de compétence en matière de Prévention niveau 1
-AP2,Attestation de compétence en matière de Prévention niveau 2
-APS,Agent de Prévention de Sécurité
-APSAD,Assemblée Plénière des Sociétés d’Assurances Dommages
-CMSI,Centralisateur de Mise en Sécurité Incendie
-DAD,Détecteur Autonome Déclencheur
-DAS,Dispositif Actionné de Sécurité
-SDI,Système de Détection Incendie
-SMSI,Système de Mise en Sécurité Incendie
-SSI,Système de Sécurité Incendie
-UGA,Unité de Gestion d’Alarme
-UCMSC,Unité de Commande Manuelle Centralisée
-US,Unité de Signalisation
-BAAS,Bloc Autonome d'Alarme Sonore
-DAC,Dispositif Adaptateur de Commande
-DCM,Dispositif de Commande Manuelle
-DCMR,Dispositif de Commandes Manuelles Regroupées
-DCS,Dispositif de Commande avec Signalisation
-DCT,Dispositif Commandé Terminal
-DM,Déclencheur Manuel
-DS,Diffuseur Sonore
-EA,Équipement d’Alarme
-ECS,Écran de Contrôle et de Signalisation
-UGCIS,Unité de Gestion Centralisée des Issues de Secours
-ZA,Zone de Diffusion d’Alarme
-ZC,Zone de Compartimentage
-ZD,Zone de Détection
-ZF,Zone de Désenfumage
-ZS,Zone de Mise en Sécurité
+mot;definition
+A.F.F.F.;Agents Formant un Film Flottant
+A.E.S.;Alimentation Électrique de Sécurité
+A.G.S.;Alarme Générale Sélective
+A.P.S.;Alimentation Pneumatique de Sécurité
+A.U.;Arrêt d'Urgence
+B.A.A.S.;Bloc Autonome d'Alarme Sonore
+B.A.A.S. Ma;Bloc Autonome d'Alarme Sonore Manuel
+B.A.A.S. Pr;Bloc Autonome d'Alarme Sonore Principal
+B.A.A.S. Sa;Bloc Autonome d'Alarme Sonore Satellite
+B.A.E.S.;Bloc Autonome d'Éclairage de Sécurité
+B.A.P.I.;Bloc Autonome Portable d'Intervention
+B.E.S.;Bloc d'Éclairage de Sécurité
+B.B.G.;Boitier Bris de Glace
+B.I.;Bouche Incendie
+C.C.F.;Clapet Coupe Feu
+C.C.H.;Code de la Construction et de l'Habitation
+C.F.;Coupe Feu
+C.H.;Colonne Humide
+C.H.C.;Colonne Horizontale Commune
+C.H.P.;Colonne Horizontale Privative
+C.M.S.I.;Centraliseur de Mise en Sécurité Incendie
+C.S.;Colonne Sèche
+C.T.;Code deu Travail
+D.A.C.;Dispositif Adaptateur de Commande
+D.A.D.;Détecteur Autonome Déclencheur
+D.A.E.;Défibrillateur Automatique Externe
+D.A.I.;Détecteur Autonome Incendie
+D.A.S.;Dispositif Actionné de Sécurité
+D.C.M.;Dispositif de Commande Manuelle
+D.C.M.R.;Dispositif de Commandes Manuelles Regroupées
+D.C.S.;Dispositif de Commande et de Signalisation
+D.C.T.;Dispositif Commandé Terminal
+D.E.A.;Défibrillateur Entièrement Automatique
+D.I.;Détecteur Incendie
+D.L.;Diffuseur Lumineux
+D.M.;Déclencheur Manuel
+D.S.;Diffuseur Sonore
+D.S.A.;Défibrillateur Semi-Automatique
+D.S.N.A.;Diffuseur Sonore Non Autonome
+E.A.;Équipement d'Alarme
+E.C.S.;Équipement de Contrôle et de Signalisation
+E.R.P.;Établissement Recevant du Public
+G.E.S.;Groupe Électrogène de Sécurité
+G.T.B.;Gestion Technique de Bâtiment
+G.T.C.;Gestion Technique Centralisée
+I.A.;Indicateur d'Action
+I.F.E.A.;Installation Fixe d'Extinction Automatique
+I.G.H.;Immeuble de Grande Hauteur
+I.T.G.H.;Immeuble de Très Grande Hauteur
+L.R.C.;Locaux à Risques Courants
+L.R.I.;Locaux à Risques Importants
+L.R.M.;Locaux à Risques Moyens
+L.R.P.;Locaux à Risques Particuliers
+M.D.;Matériel Déporté
+N.S.A.;Non Stop Ascenseur
+N.E.;Norme Européenne
+N.F.;Norme Française
+P.A.;Position d'Attente
+P.C.;Poste Central
+P.C.F.;Porte Coupe Feu
+P.C.S.;Poste Central de Sécurité
+P.F.;Pare Flamme
+P.I.;Poteau Incendie
+P.S.;Position de Sécurité
+P.S.C.;Premier Secours Civique
+R.I.A.;Robinet d'Incendie Armé
+S.A.T.I.;Système Automatique à Test Intégré
+S.D.I.;Système de Détection Incendie
+S.F.;Stable au Feu
+S.M.S.I.;Système de Mise en Sécurité Incendie
+S.S.I.;Système de Sécurité Incendie
+S.S.I.A.P.;Système de Sécurité Incendie et d'Assistance à Personnes
+S.S.S.;Système de Sonorisation de Sécurité
+S.S.T.;Sauveteur Secouriste du Travail
+T.D.;Tableau Divisionnaire
+T.G.B.T.;Tableau Général Basse Tention
+T.G.H.T.;Tableau Général Haute Tention
+T.S.;Tableau de Signalisation
+U.A.E.;Unité d'Aide à l'Exploitation
+U.C.M.C.;Unité de Commandes Manuelles Centralisées
+U.G.A.;Unité de Gestion d'Alarme
+U.G.C.I.S.;Unité de Gestion Centralisée des Issues de Secours
+U.S.;Unité de Signalisation
+V.B.;Ventilation Basse
+V.H.;Ventilation Haute
+V.T.;Voie de Transmission
+Z.A.;Zone d'Alarme
+Z.C.;Zone de Compartimentage
+Z.D.;Zone de Détection
+Z.D.A.;Zone de Détecteurs Automatiques
+Z.D.M.;Zone de Déclencheurs Manuels
+Z.F.;Zone de Désenfumage
+Z.S.;Zone de Mise en Sécurité
