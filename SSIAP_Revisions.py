@@ -13,7 +13,7 @@ st.title("Révisions SSIAP")
 # Home view
 if st.session_state.current_app is None:
     st.markdown("Choisissez une application à lancer :")
-    col1, col2 = st.columns(2)
+    col1, col2 = st.columns([1, 4]) #st.columns(2)
     with col1:
         if st.button("📘 QCM SSIAP"):
             st.session_state.current_app = 'qcm'
